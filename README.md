@@ -38,6 +38,16 @@ This is a $2,000 client PC build. It contains the list of PC parts for a custom-
 | Mouse                                          | Logitech PRO X Superlight 2 Wireless/Wired Optical Mouse    | $142.19  | Amazon    |
 | **Total**                                      |                                                              | **$1957.33** |           |
 
+## Problems Faced
+
+1. **Fan Not Turning On:** One of the case fans was not turning on after installation.
+2. **PC Powering Off Unexpectedly:** The PC would power off unexpectedly during use.
+
+## Resolved Issues
+
+1. **Fan Not Turning On:** I resolved the issue by buying a fan header for the non-functional fan.
+2. **PC Powering Off Unexpectedly:** I discovered that some of the wires were not properly connected, and some other wires were being stretched too far. After re-securing the connections and adjusting the wiring, the issue was resolved.
+
 **Building Portion:**
 
 <img src="https://github.com/Jayden-Marshall/3KPCBuild/assets/145166234/cb149ffc-8ada-424f-8c40-1d5d9cf49387"/>
