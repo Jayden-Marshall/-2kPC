@@ -48,14 +48,14 @@ This is a $2,000 client PC build. It contains the list of PC parts for a custom-
 1. **Fan Not Turning On:** I resolved the issue by buying a fan header for the non-functional fan.
 2. **PC Powering Off Unexpectedly:** I discovered that some of the wires were not properly connected, and some other wires were being stretched too far. After re-securing the connections and adjusting the wiring, the issue was resolved.
 
-**Building Portion:**
+<h1>Building Portion: </h1>
 
 <img src="https://github.com/Jayden-Marshall/3KPCBuild/assets/145166234/cb149ffc-8ada-424f-8c40-1d5d9cf49387"/>
 
-**Cable Management, and Touch-Ups:**
+<h1>Cable Management, and Touch-Ups: </h1>
 
 <img src="https://github.com/Jayden-Marshall/3KPCBuild/assets/145166234/f5a6b143-acc0-4be4-b1ee-f6b26795ae65"/>
 
-**Client Build Complete!:**
+<h1>Client Build Complete! </h1>
 
 <img src="https://github.com/Jayden-Marshall/3KPCBuild/assets/145166234/d473bc4c-1454-4751-9dfc-92ea867aad71"/>
